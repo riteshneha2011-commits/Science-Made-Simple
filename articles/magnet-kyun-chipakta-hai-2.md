@@ -1,5 +1,3 @@
-# Magnet Kyun Chipakta Hai?
-
 ---
 
 title: "Magnet Kyun Chipakta Hai?"
