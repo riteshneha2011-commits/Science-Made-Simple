@@ -1,216 +1,87 @@
 ---
-
 title: "Magnet Kyun Chipakta Hai?"
 category: "concepts"
 emoji: "🧲"
-summary: "Magnet ke andar ka simple science."
-readMinutes: 4
+summary: "Magnet aur iron ke beech attraction ki simple science."
+readMinutes: 2
 takeaways:
+  - "Iron ke andar tiny magnetic moments milkar domains banate hain."
+  - "Normal condition mein ye domains randomly aligned hote hain, isliye overall magnetism zero hota hai."
+  - "Magnet paas aane par domains align ho jaate hain aur temporary attraction create hota hai."
+quiz:
+  - question: "Iron magnet ki taraf attract kyun hota hai?"
+    options:
+      - "Iron mein glue hota hai"
+      - "Magnetic domains align ho jaate hain"
+      - "Iron halka hota hai"
+      - "Magnet air push karta hai"
+    answerIndex: 1
+    explanation: "Magnet ka external magnetic field iron ke domains ko align karke temporary magnetisation produce karta hai."
+---
 
-* "Magnet iron ke magnetic domains ko align karta hai."
-* "Iron ke andar tiny magnetic moments hote hain, jo domains banate hain."
-* "Magnet ke paas aate hi iron ke domains ka alignment badalta hai, jisse attraction hota hai."
+## Magnet Iron Ko Attract Kyun Karta Hai? 🧲
+
+Kya magnet ke andar koi invisible glue hota hai? Bilkul nahi! 😄  
+Iska asli reason hai — **Magnetic Domains**.
 
 ---
 
-## Concept
+### Step 1: Iron ke andar tiny magnets hote hain ⚛️
 
-Kabhi fridge par magnet chipkaya hai? 🧲
-Ya phir ek magnet ko paper clips ke paas le jaakar dekha hai ki **"arre bhai, ye toh khud hi magnet ki taraf bhaag raha hai!"** 😂
+Iron ke atoms ke electrons ke paas **magnetic moment** hota hai (chhote magnets ki tarah).  
+Jab bahut saare atoms ek saath same direction mein align hote hain, toh woh ek **magnetic domain** (mini-magnet team) banate hain.
 
-Lekin question ye hai:
-
-**Magnet iron ko attract kyun karta hai?**
-
-Kya magnet ke andar koi invisible glue laga hota hai?
-Bilkul nahi. 😄
-
-Iske peeche ka actual reason hai — **magnetic domains**.
-
-### Step 1: Atom ke andar bhi "tiny magnets" hote hain
-
-Iron ke atoms ke electrons ke paas **magnetic moment** hota hai. Simple language mein, hum inhe tiny magnets ki tarah imagine kar sakte hain.
-
-Lekin ek single iron object mein ye tiny magnetic moments sab ek direction mein nahi hote.
-
-Instead, iron ke andar chhote-chhote regions hote hain jahan bahut saare atomic magnetic moments ek particular direction mein aligned hote hain.
-
-In regions ko kehte hain:
-
-> **Magnetic Domains**
-
-Ek domain ko tum ek **mini-magnet team** samajh sakte ho. 🧲
-
-NCERT ke according, ek typical domain ka size roughly **1 mm** ho sakta hai aur usmein around **10¹¹ atoms** ho sakte hain.
-
-### Step 2: Normal iron magnet kyun nahi hota?
-
-Ab imagine karo ki iron ke andar bahut saari teams hain:
-
-```text
-→ → →    ↑ ↑ ↑    ← ← ←    ↓ ↓ ↓
-Domain   Domain   Domain   Domain
-```
-
-Har domain ke andar alignment hai, **but different domains different directions mein aligned hain.**
-
-Isliye overall effect largely cancel ho jata hai.
-
-Result?
-
-**Iron ka piece normally magnet jaisa behave nahi karta.**
-
-Yaani andar sabki apni-apni direction hai —
-bilkul school assembly mein students ki tarah:
-
-*"Tum idhar khade ho, tum udhar..."* 😂
-
-Overall koi proper direction nahi!
-
-### Step 3: Ab magnet ko paas lao 🧲
-
-Jaise hi ek magnet iron ke paas aata hai, uska magnetic field iron ke domains ko influence karta hai.
-
-Jo domains magnetic field ki direction ke favourable hote hain, woh grow karne lagte hain, aur bahut se domains ki orientation bhi field ke according change hoti hai.
-
-Something like:
-
-```text
-Before:
-
-→ → →    ↑ ↑ ↑    ← ← ←    ↓ ↓ ↓
-↗ ↗ ↗    ↓ ↓ ↓    → → →    ↖ ↖ ↖
-
-
-Magnet nearby:
-
-🧲  → → → → → → → → →  Iron
-
-
-After:
-
-→ → →    → → →    → → →    → → →
-```
-
-Ab iron ke andar **net magnetisation** develop ho jaati hai.
-
-Aur sabse interesting part:
-
-Magnet ke paas wale iron ke end par **opposite magnetic pole effectively induce ho jata hai.**
-
-For example, agar magnet ka **North pole** iron ke paas hai, toh iron ka near side effectively **South pole** banne lagta hai.
-
-Aur:
-
-**North + South = Attraction!** 🧲❤️
-
-Isi induced magnetisation ki wajah se **unmagnetized iron bhi magnet ki taraf attract hota hai.**
+    → → → → →
+    → → → → →
+    One Magnetic Domain
 
 ---
 
-## Ek Important Twist 🤯
+### Step 2: Normal iron magnet kyun nahi hota? 🤔
 
-Yahan ek common misconception hai:
+Normal iron mein aise bahut saare domains alag-alag directions mein point karte hain:
 
-> **"Magnet sirf already-magnetic iron ko attract karta hai."**
+    → → →     ↑ ↑ ↑     ← ← ←     ↓ ↓ ↓
+    Domain    Domain    Domain    Domain
 
-Actually, **ordinary iron pehle se permanent magnet hona zaroori nahi hai.**
-
-Magnet ka field iron ko temporarily magnetise kar sakta hai.
-
-Isi process ko **induced magnetisation** kehte hain.
-
-Isliye ek ordinary iron nail bhi magnet ke paas jaate hi attract ho sakta hai.
-
-Aur agar nail ke paas paper clips rakho, toh kabhi-kabhi woh paper clips ko bhi attract karne lagta hai!
-
-Matlab:
-
-```text
-🧲 → 🔩 → 📎 → 📎
-Magnet   Iron   Paper clips
-```
-
-Magnet ne nail ko temporarily **"magnetic middleman"** bana diya. 😄
+Alag-alag directions ki wajah se inka overall magnetic effect **cancel** ho jata hai. Isliye normal iron piece magnetised nahi rehta.
 
 ---
 
-## Why Doesn't a Magnet Stick to Everything?
+### Step 3: Magnet ko paas laane par kya hota hai? 🧲
 
-Agar magnet mein attraction hai, toh phir woh table, plastic, wood aur notebook ko kyun nahi kheenchta?
+Jab ek strong magnet iron ke paas aata hai, toh woh iron ke domains ko **ek hi direction mein align** kar deta hai.
 
-Because **har material ferromagnetic nahi hota.**
+    Before :  → → →   ↑ ↑ ↑   ← ← ←   ↓ ↓ ↓
+    After  :  → → →   → → →   → → →   → → →
 
-Iron, cobalt, nickel jaise materials strong ferromagnetic behaviour show karte hain.
-
-Plastic, wood aur paper mein iron jaisa strong domain-based ferromagnetic response नहीं होता.
-
-Isliye magnet:
-
-**Iron → "Come here, bro!" 🧲**
-
-**Plastic → "Bhai, hum friends hi theek hain." 😂**
+Isse iron temporarily magnetise ho jata hai. Isi process ko **Induced Magnetisation** kehte hain.
 
 ---
 
-## Permanent Magnet Kaise Banta Hai?
+### Step 4: Attraction kaise hota hai? ❤️
 
-Agar domains ka alignment sufficiently stable ho jaye, toh material external magnetic field hatne ke baad bhi magnetisation retain kar sakta hai.
-
-Aise materials ko **hard magnetic materials** kaha jata hai aur inka use permanent magnets banane mein hota hai.
-
-Dusri taraf, **soft magnetic materials**, jaise soft iron, external field hatne ke baad apni magnetisation kaafi had tak lose kar dete hain.
-
-Isi wajah se soft magnetic materials electromagnets aur transformer cores jaise applications mein useful hote hain.
+1. Magnet ka **North Pole** iron ke paas aane par iron ke samne wale side par **South Pole** induce karta hai.
+2. Rule: **Opposite poles attract!**
+3. Result: **North + Induced South = Strong Attraction!** 🧲
 
 ---
 
-## Heat Karne Par Magnetism Kyun Kam Ho Sakta Hai? 🔥
+### Magnet Har Cheez Ko Kyun Nahi Kheenchta? 🪵 plastic
 
-Temperature badhne par atoms ki thermal motion increase hoti hai.
-
-Bahut high temperature par magnetic domain order disturb ho sakta hai.
-
-Iron ke liye **Curie temperature लगभग 770°C** hai. Is temperature ke above iron ferromagnetic behaviour lose karke paramagnetic behaviour show karta hai.
-
-So technically:
-
-**Heat ↑ → thermal disorder ↑ → domain alignment disturb → ferromagnetism ↓**
-
-Yaani magnet ko bahut zyada garam karoge toh uska "discipline" kharab ho sakta hai. 😂
+Har material **ferromagnetic** nahi hota. 
+- **Iron, Nickel, Cobalt:** Inme domains hote hain, isliye ye attract hote hain.
+- **Plastic, Wood, Glass:** Inme domains align nahi hote, isliye ye attract nahi hote.
 
 ---
 
-## Formula
+### Heat Karne Par Magnetism Kyun Kam Hota Hai? 🔥
 
-Yahan diya gaya formula:
+High temperature par thermal energy domain order ko disturb kar deti hai.  
+Iron ka **Curie Temperature (770°C)** hota hai — iske upar iron apna ferromagnetism kho deta hai.
 
-$$F = qvB\sin\theta$$
+---
 
-**magnetic field mein moving charge par lagne wali magnetic force** ka formula hai.
+### Ek Line Mein Puri Story 🧠
 
-Where:
-
-* $F$ = magnetic force
-* $q$ = charge
-* $v$ = velocity of charge
-* $B$ = magnetic field
-* $\theta$ = velocity aur magnetic field ke beech angle
-
-Lekin **magnet ka iron ko attract karna directly is formula se explain nahi hota.**
-
-Iron ke attraction ko samajhne ke liye **magnetic domains + induced magnetisation + magnetic field gradient** ka concept important hai.
-
-NCERT bhi explain karta hai ki ferromagnetic material non-uniform magnetic field mein weak-field region se strong-field region ki taraf move karne ki tendency rakhta hai.
-
-### Quick Memory Trick 🧠
-
-**Magnet → Magnetic Field → Domains Align → Iron Magnetised → Opposite Pole Induced → Attraction**
-
-Bas itna yaad rakho:
-
-> **Magnet iron ko "glue" se nahi, uske andar ke magnetic domains ko influence karke attract karta hai.** 🧲
-
-Aur haan...
-
-**Magnet ka asli superpower = domains ko discipline mein lana.** 😎
+`Magnet Field → Iron domains align hote hain → Induced Magnetisation → Opposite pole banta hai → Attraction!` 🧲
